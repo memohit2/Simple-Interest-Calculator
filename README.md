@@ -1,2 +1,1 @@
-# Simple-Interest-Calculator
-Using HTML, CSS, JavaScript
+# coding-project-template
